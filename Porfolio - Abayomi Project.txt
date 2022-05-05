@@ -38,7 +38,7 @@ Declaring variable applicable to all the project body
 
 
 GIT 
-This is version control system. 
+This is version control system. It is use for tracking and collaboration
 Command line 
 GIT - Init 
 Repository: Collection of Codes 
@@ -52,4 +52,12 @@ GIT add .A "means to add ALL on the folder/Repository"
 GIT Commit - M "Just added a button".......... means creating different version by typing what have been done to the programm 
 
 GIT HUB
+GIT Add
+GIT Commit
+GIT Push
+
+
+TO HOST WEBSITE
+Use Netlily link with your GIT Hub Account
+
 

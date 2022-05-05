@@ -1,0 +1,55 @@
+unsplash.com 	= for different background pictures 
+
+
+Draw the diagrammatic representation of the Porfolio
+Docker Training .. Software
+
+Mobile view - first priority
+
+Home	About	Porfolio	Blog	Contact		Fire Me An Email
+
+ColorZilla - to choose color
+
+Font Awesome - https://fontawesome.com/icons
+
+Classlist will add details of other links
+Classlist have different function such as 
+Add, subtract, toggle 
+
+Viewheight (vh) - To add horizontal scroll bar 
+Media query 
+
+
+Flexwrap:
+Justify
+
+z-index: ;	- It's default value is zero (0) and the position must not be static because it will not respond. 
+
+hr meaning Horizontal rule
+
+
+
+Declaring variable applicable to all the project body 
+
+:root {
+--
+}
+
+
+
+GIT 
+This is version control system. 
+Command line 
+GIT - Init 
+Repository: Collection of Codes 
+
+
+To Track file on GIT
+GIT add index.html
+GIT add . "means to add everything on the folder/Repository"
+GIT add .A "means to add ALL on the folder/Repository"
+
+GIT Commit - M "Just added a button".......... means creating different version by typing what have been done to the programm 
+
+GIT HUB
+
